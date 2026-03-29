@@ -133,7 +133,7 @@ Solo los usuarios agregados podrán autenticarse mientras la app no esté verifi
 
 ---
 
-## 5. Crear credenciales OAuth 2.0
+#### 5. Crear credenciales OAuth 2.0
 
 Ir a:
 
