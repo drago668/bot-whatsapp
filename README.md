@@ -152,7 +152,7 @@ Renombrar el archivo descargado a:
 
 credentials.json
 
-Colocar el archivo en la raíz del proyecto. [agregar usuarios de prueba](https://console.cloud.google.com/apis/credentials/consent) Esto genera `token.json` automáticamente
+Colocar el archivo en la raíz del proyecto.
 
 ### 6. Correr localmente
 
